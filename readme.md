@@ -84,7 +84,7 @@ hscale --help
 
 ## More Info
 
-See [ubuntu-dev-ec2](https://github.com/davidmarkclements/ubuntu-dev-ec2) for more on the automated machine creation works.
+See [ubuntu-dev-ec2](https://github.com/davidmarkclements/ubuntu-dev-ec2) for more on how the automated machine creation works.
 
 ## License
 
