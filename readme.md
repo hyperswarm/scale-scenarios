@@ -8,7 +8,7 @@ npm install -g @hyperswarm/scale-scenarios
 
 ## Setup
 
-Once install an executable name `hscale` will be available, 
+Once installed, an executable name `hscale` will be available, 
 this can be used to automatically spin up a machine and set
 it up with all necessary dependencies. 
 
