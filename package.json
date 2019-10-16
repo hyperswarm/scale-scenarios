@@ -1,5 +1,5 @@
 {
-  "name": "scale-scenarios",
+  "name": "@hyperswarm/scale-scenarios",
   "version": "1.0.0",
   "description": "",
   "bin": {
