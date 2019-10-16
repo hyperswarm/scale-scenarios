@@ -86,5 +86,6 @@ hscale --help
 
 See [ubuntu-dev-ec2](https://github.com/davidmarkclements/ubuntu-dev-ec2) for more on the automated machine creation works.
 
-License
+## License
+
 MIT
