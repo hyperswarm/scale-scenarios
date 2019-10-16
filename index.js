@@ -9,6 +9,7 @@ async function * launcher (opts = {}) {
     await ude.config(opts.cfg) :
     opts.cfg
   cfg.type = cfg.type || 'c5.metal'
+  cfg.node = cfg.node || 10
   opts = Object.assign({}, cfg, opts)
   opts.setup = {
     'scale-scenarios'() {
